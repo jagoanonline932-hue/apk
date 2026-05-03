@@ -8,6 +8,7 @@ import {
   Wifi, WifiOff, BatteryMedium, Cpu, Globe
 } from 'lucide-react';
 
+
 const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
 
 // --- Dummy Initial Data ---
